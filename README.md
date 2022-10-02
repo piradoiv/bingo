@@ -1,5 +1,5 @@
 # Bingo
-Bingo Example app, made with Xojo.
+Bingo caller desktop app, made with Xojo.
 
 <img width="400" alt="bingo-macos" src="https://user-images.githubusercontent.com/601856/193415968-50b71cdb-7cc4-44ae-a715-b18c63894be4.png">
 
