@@ -29,7 +29,7 @@ Begin DesktopWindow BingoWindow
       Bold            =   False
       Cancel          =   False
       Caption         =   "Next Number"
-      Default         =   False
+      Default         =   True
       Enabled         =   True
       FontName        =   "System"
       FontSize        =   0.0
