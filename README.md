@@ -9,7 +9,7 @@ Bingo is a simple Bingo caller desktop app. The main difference is it also displ
 ## How to run and build
 Download [Xojo 2022r2 or higher](https://xojo.com/download/), press the Run button if you want to debug the application, or the Build button (you'll need a Xojo license) for creating an executable that you can share.
 
-![mwx_long](https://user-images.githubusercontent.com/601856/193416223-1e8cdc15-1966-46fa-8002-3aea41181a39.png)
+[![mwx_long](https://user-images.githubusercontent.com/601856/193416223-1e8cdc15-1966-46fa-8002-3aea41181a39.png)](https://xojo.com/)
 
 ## Contribute
 Feel free to create [Issues](https://github.com/piradoiv/bingo/issues) for bugs or feature requests. [Pull requests](https://github.com/piradoiv/bingo/pulls) are also more than welcome.
