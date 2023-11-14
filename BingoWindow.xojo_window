@@ -399,7 +399,7 @@ End
 		  d.Title = "Reset Game"
 		  d.Message = "Do you really want to restart the game?"
 		  d.ActionButton.Caption = "Yes, start a new game"
-		  d.CancelButton.Caption = "No, cancel this cation"
+		  d.CancelButton.Caption = "No, cancel this action"
 		  d.CancelButton.Visible = True
 		  
 		  Var pressedButton As MessageDialogButton = d.ShowModal
