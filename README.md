@@ -1,7 +1,8 @@
 # Bingo
 Bingo caller desktop app, made with Xojo.
 
-<img width="400" alt="bingo-macos" src="https://user-images.githubusercontent.com/601856/193415968-50b71cdb-7cc4-44ae-a715-b18c63894be4.png">
+![image](https://github.com/piradoiv/bingo/assets/601856/5d68aee5-c026-4eac-a5a3-6fee320fe9e2)
+
 
 Bingo is a simple Bingo caller desktop app. The main difference is it also displays the next number that will be called. It also reads the number, using the OS voice.
 
